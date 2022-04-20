@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/datasets-standard-card-deck",
-  "version": "0.0.0",
+  "version": "0.0.9",
   "description": "A list of cards.",
   "license": "Apache-2.0",
   "author": {
