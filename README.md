@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cards from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-standard-card-deck@deno/mod.js';
+import cards from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-standard-card-deck@v0.1.0-deno/mod.js';
 ```
 
 #### cards()
@@ -89,7 +89,7 @@ Suit abbreviations:
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
-import cards from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-standard-card-deck@deno/mod.js';
+import cards from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-standard-card-deck@v0.1.0-deno/mod.js';
 
 var list;
 var len;
