@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cards from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-standard-card-deck@esm/index.mjs';
+import cards from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-standard-card-deck@v0.2.3-esm/index.mjs';
 ```
 
 #### cards()
@@ -94,7 +94,7 @@ Suit abbreviations:
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
-import cards from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-standard-card-deck@esm/index.mjs';
+import cards from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-standard-card-deck@v0.2.3-esm/index.mjs';
 
 var list;
 var len;
